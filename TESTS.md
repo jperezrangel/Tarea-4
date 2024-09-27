@@ -20,7 +20,7 @@ sudo -H pip3 install pytest
     pytest assignments/17NCuadradoMayor
     ```
 
-- ## 18 Suma Dígitos
+- ## 18 Factorial
     ### Run command
     ```
     pytest assignments/18Factorial
